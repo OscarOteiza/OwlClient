@@ -11,7 +11,7 @@ Or a website that runs PHP programs such as Heroku. PHP is very common with serv
 
 Note, no development required to try this application.
 
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/tigerfarm/OwlClient)
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/OscarOteiza/OwlClient)
 
 When you deploy to Heroku, you will be prompted for an app name. 
 The name needs to be unique, example, enter your name+cc (example: davidcc). 
